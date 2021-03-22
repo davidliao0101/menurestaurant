@@ -1,0 +1,19 @@
+.btn02 {
+  margin-left: 20px;
+}
+.div_01 {
+  display: flex;
+}
+
+li a {
+  color: black;
+}
+
+li:hover {
+  border: 1px solid black;
+  color: white;
+}
+
+li:hover a {
+  color: black;
+}
